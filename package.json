@@ -1,0 +1,37 @@
+{
+  "name": "on-demand-grocery-app",
+  "version": "1.0.0",
+  "description": "NTIG9 Final Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saramammar/On-demand-Grocery-app.git"
+  },
+  "keywords": [
+    "grocery",
+    "fruits",
+    "vegetables",
+    "delivery",
+    "web",
+    "app",
+    "node",
+    "nodejs",
+    "node.js",
+    "mongoose"
+  ],
+  "author": "Sara Ammar\u001b[D\u001b[m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saramammar/On-demand-Grocery-app/issues"
+  },
+  "homepage": "https://github.com/saramammar/On-demand-Grocery-app#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7",
+    "validator": "^13.6.0"
+  }
+}
